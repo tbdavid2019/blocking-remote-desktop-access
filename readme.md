@@ -2,6 +2,7 @@
 
 ## 简介
 本规则收集的目的是阻止非法远程桌面访问工具,如TeamViewer、AnyDesk等。
+以及附上台灣ip清單 taiwan-ip-list
 
 ## 过滤规则
 - 规则1:阻止TeamViewer连线
@@ -12,7 +13,7 @@
 - 登录AdGuard Home管理面板
 - 前往「过滤器」页面
 - 点击「添加过滤器」
-- 将本repo的custom-rules.txt内容复制粘贴到自定义过滤规则
+- 将本repo的blocking-remote-desktop-rules.txt内容复制粘贴到自定义过滤规则
 - 保存更改即可生效
 
 ## 规则说明
@@ -38,7 +39,7 @@ This ruleset aims to block unauthorized remote desktop access tools like TeamVie
 - Login to AdGuard Home admin dashboard
 - Go to the "Filters" page
 - Click "Add Filter"
-- Copy and paste the contents from custom-rules.txt in this repo
+- Copy and paste the contents from blocking-remote-desktop-rules.txt in this repo
 - Save changes for them to take effect
 
 ## Rule Details
