@@ -6,7 +6,7 @@
 ## 過濾規則
 - **規則1**: 阻止TeamViewer連線
 - **規則2**: 阻止AnyDesk連線
-- **規則3**: 阻止其他常見遠端訪問工具連線（詳見工具列表）
+- **規則3**: 阻止其他常見遠端訪問工具連線（詳見[toollist.md](./toollist.md)）
 
 ## 使用方法
 1. 登入AdGuard Home管理面板
@@ -16,11 +16,11 @@
 5. 儲存變更，規則將立即生效
 
 ## 規則說明
-- 規則僅針對阻止非法或未經授權的連線，不影響正常的管理需求。
+- 這些規則僅針對阻止非法或未經授權的連線，不影響正常的管理需求。
 - 可選：排除本地網路或管理IP段的連線，以確保合法的管理訪問不受影響。
 
 ## 貢獻
-歡迎提交Issue或Pull Request，以幫助優化和完善規則集。如果有任何問題或建議，請隨時與我聯繫。
+歡迎提交Issue或Pull Request，以幫助優化和完善規則集。如果有任何問題或建議，請隨時與我們聯繫。
 
 ---
 
@@ -32,7 +32,7 @@ This ruleset aims to block unauthorized remote desktop access tools such as Team
 ## Filtering Rules
 - **Rule 1**: Block TeamViewer connections
 - **Rule 2**: Block AnyDesk connections
-- **Rule 3**: Block other common remote access tools (see tool list for details)
+- **Rule 3**: Block other common remote access tools (see [toollist.md](./toollist.md) for details)
 
 ## Usage
 1. Log in to the AdGuard Home admin dashboard
@@ -42,7 +42,7 @@ This ruleset aims to block unauthorized remote desktop access tools such as Team
 5. Save changes to activate the rules
 
 ## Rule Details
-- The rules are designed to block unauthorized access without affecting legitimate admin requirements.
+- These rules are designed to block unauthorized access without affecting legitimate admin requirements.
 - Optional: Exclude LAN/admin IP ranges to ensure authorized management access remains unaffected.
 
 ## Contributing
