@@ -1,3 +1,27 @@
+# 補充的阻擋規則 - 加強遠端桌面和Proxy/VPN服務的防堵 20240815
+## 阻擋VNC相關的遠端桌面服務
+||realvnc.com^
+||ultravnc.com^
+||tightvnc.com^
+## 阻擋RDP相關的網域
+||rdpguard.com^
+## 阻擋NoMachine遠端桌面服務
+||nomachine.com^
+## 補充Splashtop的規則
+||splashtopstreamer.com^
+## 阻擋Proxy和VPN服務
+||hidemyass.com^
+||nordvpn.com^
+||expressvpn.com^
+||vpnbook.com^
+## 阻擋Jump Desktop遠端桌面服務
+||jumpdesktop.com^
+## 阻擋Zoho Assist遠端支援工具
+||zoho.com^
+## 阻擋AnyViewer遠端桌面應用
+||anyviewer.com^
+## 阻擋Windows RDP相關網域
+||rdp.windows.com^
 # 阻擋遠端桌面與NAS 資安 20220415DAVID
 ||anydesk.com^
 ||ammyy.com^
