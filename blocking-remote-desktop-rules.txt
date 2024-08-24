@@ -1,3 +1,53 @@
+# 補充的遠端桌面和支援服務阻擋規則20240824
+# Chrome Remote Desktop
+||remotedesktop.google.com^
+||talkgadget.google.com^
+# Microsoft Remote Desktop
+||rdweb.wvd.microsoft.com^
+||client.wvd.microsoft.com^
+# UltraVNC
+||uvnc.com^
+# TightVNC
+||tightvnc.net^
+# RealVNC
+||realvnc.net^
+
+# NoMachine
+||nomachine.com^
+
+# Parallels Access
+||parallels.com^
+||access.parallels.com^
+
+# RemotePC
+||remotepc.com^
+
+# ConnectWise Control (formerly ScreenConnect)
+||connectwise.com^
+||screenconnect.com^
+# Radmin
+||radmin.com^
+# DWService
+||dwservice.net^
+# RemoteToPC
+||remotetopc.com^
+# ISL Online
+||islonline.com^
+# SupRemo
+||supremocontrol.com^
+# BeAnywhere
+||beanywhere.com^
+# Bomgar (now BeyondTrust)
+||bomgar.com^
+||beyondtrust.com^
+# Dameware Remote Support
+||dameware.com^
+# SimpleHelp
+||simple-help.com^
+# Remote Utilities
+||remoteutilities.com^
+# Iperius Remote
+||iperiusremote.com^
 # 補充的阻擋規則 - 加強遠端桌面和Proxy/VPN服務的防堵 20240815
 ## 阻擋VNC相關的遠端桌面服務
 ||realvnc.com^
