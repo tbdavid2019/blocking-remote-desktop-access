@@ -8,6 +8,9 @@
 - **規則2**: 阻止AnyDesk連線
 - **規則3**: 阻止其他常見遠端訪問工具連線（詳見[toollist.md](./toollist.md)）
 
+- 世界 ip 列表 https://github.com/herrbischoff/country-ip-blocks/tree/master
+  
+
 ## 使用方法
 1. 登入AdGuard Home管理面板
 2. 前往「過濾器」頁面
